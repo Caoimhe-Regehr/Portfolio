@@ -2,6 +2,8 @@
 Personal Portfolio of Art and stuff
 
 
+CMD Cheat Sheet
+
 Use Case                       | Mac               | Windows
 
 
