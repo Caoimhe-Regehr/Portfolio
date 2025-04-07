@@ -98,16 +98,16 @@ div{
 	justify-content: center;
 }
 
+.swatch{
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+}
+	
 #black{
 	width: 20%;
 	height: 100px;
 	background: #000;
-}
-
-#inbetween-black{
-	width: 20%;
-	height: 100px;
-	background: #008080;
 }
 
 #cyan{
@@ -116,11 +116,6 @@ div{
 	background: #00ffff;
 }
 
-#inbetween-cyan{
-	width: 20%;
-	height: 100px;
-	background: #80ffff;
-}
 
 #white{
 	width: 20%;
