@@ -5,3 +5,10 @@ baseurl: "https://caoimhe-regehr.github.io"
 url: "/Portfolio"
 
 LinkedIn:
+
+collections:
+	design:
+		output: true
+		
+	photography:
+		output: true
