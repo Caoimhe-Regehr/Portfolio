@@ -102,14 +102,12 @@ div{
 	display: flex;
 	flex-flow: column;
 	justify-content: center;
-	color: #000;
 }
 	
 #black{
 	width: 20%;
 	height: 100px;
 	background: #000;
-	color: #fff;
 }
 
 #cyan{
@@ -123,4 +121,8 @@ div{
 	width: 20%;
 	height: 100px;
 	background: #fff;
+}
+
+.swatch-text{
+	color: #000;
 }
