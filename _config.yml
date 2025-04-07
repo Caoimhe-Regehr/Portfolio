@@ -7,8 +7,6 @@ url: "/Portfolio"
 LinkedIn:
 
 collections:
-	design:
+	_design:
 		output: true
 		
-	photography:
-		output: true
