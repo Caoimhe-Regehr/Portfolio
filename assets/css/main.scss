@@ -1,4 +1,4 @@
 ---
 ---
-@import "_sass/global.scss";
-@import "_sass/sidebar.scss";
+@import "{{ site.baseurl }}{{ site.url }}/_sass/global.scss";
+@import "{{ site.baseurl }}{{ site.url }}/_sass/sidebar.scss";
