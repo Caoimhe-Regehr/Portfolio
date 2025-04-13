@@ -13,7 +13,7 @@ This series of manga panels were coloured in order to explore the relationship b
 
 ## Tools and Techniques
 
--Adobe Photoshop for colour picking and masking.
+- Adobe Photoshop for colour picking and masking.
 
 ## Outcomes
 
