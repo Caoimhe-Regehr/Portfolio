@@ -18,4 +18,4 @@ This poster series was created to explore the relationship of rhythm with typogr
 
 ## Outcomes
 
-This project helped develop a more thorough sense of visual hierarchy and gave the opportunity to experiment with type-as-image.
+This project helped develop a more thorough understanding of colour and its relationship with line-based shading.
