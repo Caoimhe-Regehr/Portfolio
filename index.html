@@ -9,9 +9,9 @@ layout: default
 	<div class="design-card">
 		<h2>{{ design.title }}</h2>	
 		{% if design.tools %}	
-		<p>
-			<strong>Tools:</strong>{{ design.tools | join: ", " }}
-		</p>
+			<p>
+				<strong>Tools:</strong>{{ design.tools | join: ", " }}
+			</p>
 		{% endif %}
 		<p>{{ design.description }}</p>	
 		<a href="{{ design.url }}">View Project</a>	
