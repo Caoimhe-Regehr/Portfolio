@@ -4,7 +4,7 @@ email: bxregehr@gmail.com
 baseurl: "https://caoimhe-regehr.github.io"
 url: "/Portfolio"
 
-
 collections:
-design:
-output: true
+  design:
+    output: true
+    permalink: /:collection/:path/
